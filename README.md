@@ -5,8 +5,9 @@
 0. Codes for downloading the groundwater levels data from Enviromnent Agency, as well as to pre-process the raw data
 1. Codes for classifying the groundwater trends of 2902 staions across England
 2. Codes for checking spatial heterogeneity of detected long-term trends
-3. Meta data of all groundwater levels stations provided by Environment agency
-4. Results summary of the trend analysis
+3. Data basic information of all stations
+4. Results of trend classification
+5. Data for trend analysis
 
 
 ## Contact
